@@ -87,7 +87,7 @@ substitutions:
   _DEPLOY_REGION: europe-west8
   _AR_HOSTNAME: europe-west8-docker.pkg.dev
   _PLATFORM: managed
-  _SERVICE_NAME: php-amarcord
+  _SERVICE_NAME: app-mod-workshop
   _EXECUTION_ENVIRONMENT: 'rgc/cloudbuild'
   #_GITHUB_USER: Friends-of-Ricc # change your your own, eg 'gregorio'
   _GITHUB_USER: tonixhymshiti # change your your own, eg 'gregorio'
